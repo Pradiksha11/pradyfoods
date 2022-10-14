@@ -19,19 +19,19 @@ const DUMMY_MEALS = [
     id: "m3",
     name: "Falooda",
     description: "A falooda is a Mughlai Indian version of a cold dessert made with noodles!",
-    price: 21.5,
+    price: 150,
   },
   {
     id: "m4",
     name: "Pani puri",
     description: "Gol gappa (also known as pani puri) is a popular bite-size chaat ",
-    price: 19.99,
+    price: 20,
   },
   {
     id: "m5",
     name: "Schezwan noodles",
     description: "Schezwan noodles is completely vegan, and delicious to prepare as a tasty lunch or dinner.",
-    price: 22.99,
+    price: 199,
   },
 ];
 
